@@ -28,7 +28,11 @@ I have a few side projects too. <a href="https://itunes.apple.com/hk/app/taste-p
 
 In addition to all that stuff, I love to learn. I love to discover more about the world around me. I am always interested in learning about new technologies, design trends, or how to hand roast a great batch of coffee.
 
-I still have a lot to learn and I feel like my best work is still ahead of me. I would love a chance to chat more about the design role. If you have some time, please take a look at my personal site, which has samples of my design work: <a href="http://www.jesseorndorff.com">www.jesseorndorff.com</a>
+## In Closing
+
+I still have a lot to learn and I feel like my best work is still ahead of me. I use Basecamp everyday, it's been the cornerstone of my freelance career for the last three years. I want to make a difference, I want to do work that matters. I think we would be a great fit.
+
+I would love a chance to chat more about the design role. If you have some time, please take a look at my personal site, which has samples of my design work: <a href="http://www.jesseorndorff.com">www.jesseorndorff.com</a>
 
 Thanks,
 
