@@ -20,7 +20,7 @@ I have a few side projects too. I designed and launched an iOS app to find good 
 
 In addition to all that stuff, I love to be curious. I love to learn more about the world around me. I am always interested in learning about new technologies, design trends, or how to hand roast a great batch of coffee.
 
-I still have a lot to learn and I feel like my best work is still ahead of me. I would love a chance to chat more about the design role.
+I still have a lot to learn and I feel like my best work is still ahead of me. I would love a chance to chat more about the design role. If you have some time, please take a look at my personal site, which has samples of my design work: <a href="http://www.jesseorndorff.com">www.jesseorndorff.com</a>
 
 Thanks,
 
