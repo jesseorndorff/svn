@@ -28,4 +28,5 @@ Jesse
 
 Contact Details:
 - jesseorndorff.com
+- jesse@jesseorndorff.com
 - (253)234-5585
