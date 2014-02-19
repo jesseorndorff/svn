@@ -16,7 +16,7 @@ I've spent a lot of time working on optimizing landing page designs. I've learne
 
 In my spare time I help NGOs like <a href="http://www.splash.org">Splash</a> and <a href="http://www.hagarinternational.org">Hagar</a> with their design, development and marketing needs. I teach HTML/CSS to Cambodians and <a href="http://www.phnompenhpost.com/columns/finding-technological-solutions-society%E2%80%99s-toughest-challenges">I speak at Cambodian tech conferences</a>. I love the tech community in Cambodia and I am proud to be able to invest in it.
 
-I have a few side projects too. I designed and launched an iOS app to find good food in Phnom Penh and I work on my open source CMS: Halogy. 
+I have a few side projects too. <a href="https://itunes.apple.com/hk/app/taste-phnom/id665831836?mt=8">I designed and launched an iOS app to find good food in Phnom Penh</a> and I work on my open source CMS: <a href="http://www.halogy.com">Halogy</a>. 
 
 In addition to all that stuff, I love to be curious. I love to learn more about the world around me. I am always interested in learning about new technologies, design trends, or how to hand roast a great batch of coffee.
 
