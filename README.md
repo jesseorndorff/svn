@@ -10,11 +10,11 @@ Why Cambodia? A few years ago my wife and I learned about human trafficking. We 
 
 We love what we do. I know you do too (I've read your books).
 
-I've spent the last 4 years working for an agency based in Seattle called Cobalt. They provide marketing services to the auto industry. Mostly large brands like GM, Volkswagen, and Hyundai. I started my time there as an ad designer and developer. Most of my time was focused on designing flash ads and developing them in Action Script. Since I have been at Cobalt my role has grown. Now I am responsible for managing and designing new product rollouts for the Australian auto brand Holden.
+I've spent the last 4 years working for an agency based in Seattle called <a href="http://www.cobalt.com/">Cobalt</a>. They provide marketing services to the auto industry. Mostly large brands like GM, Volkswagen, and Hyundai. I started my time there as an ad designer and developer. Most of my time was focused on designing flash ads and developing them in Action Script. Since I have been at Cobalt my role has grown. Now I am responsible for managing and designing new product rollouts for the Australian auto brand Holden.
 
 I've spent a lot of time working on optimizing landing page designs. I've learned a ton. Cobalt has been an amazing company to work for. They embraced our decision to move abroad. They have allowed me room to grow into my role. And they have provided me opportunity to work on some really cool projects.
 
-In my spare time I help NGOs with their online marketing. I teach HTML/CSS to Cambodians and I speak at Cambodian tech conferences. I love the tech community in Cambodia and I am proud to be able to invest in it.
+In my spare time I help NGOs like <a href="http://www.splash.org">Splash</a> and <a href="http://www.hagarinternational.org">Hagar</a> with their design, development and marketing needs. I teach HTML/CSS to Cambodians and <a href="http://www.phnompenhpost.com/columns/finding-technological-solutions-society%E2%80%99s-toughest-challenges">I speak at Cambodian tech conferences</a>. I love the tech community in Cambodia and I am proud to be able to invest in it.
 
 I have a few side projects too. I designed and launched an iOS app to find good food in Phnom Penh and I work on my open source CMS: Halogy. 
 
