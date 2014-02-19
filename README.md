@@ -14,7 +14,7 @@ I've spent the last 4 years working for an agency based in Seattle called Cobalt
 
 I've spent a lot of time working on optimizing landing page designs. I've learned a ton. Cobalt has been an amazing company to work for. They embraced our decision to move abroad. They have allowed me room to grow into my role. And they have provided me opportunity to work on some really cool projects.
 
-In my spare time I help NGOs with their online marketing. I teach HTML/CSS to Cambodians, and  I speak at Cambodian tech conferences. I love the community I am able to invest in Cambodia.
+In my spare time I help NGOs with their online marketing. I teach HTML/CSS to Cambodians, and I speak at Cambodian tech conferences. I love the community I am able to invest in Cambodia.
 
 I have a few side projects too. I designed and launched an iOS app to find good food in Phnom Penh and I work on my open source CMS: Halogy. 
 
@@ -26,5 +26,6 @@ Thanks,
 
 Jesse
 
+Contact Details:
 - jesseorndorff.com
 - (253)234-5585
