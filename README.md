@@ -47,6 +47,6 @@ Contact Details:
 I accept pull requests! Please send your well commented pull request for changes (or interview requests).
 
 ## License
-Feel free to do with this as you wish. If you want to apply for a job at Basecamp, feel free to fork this cover letter. I just can't guarantee that it will get you an interview, although I am hopeful that it will get me one.
+Feel free to do with this as you wish. If you want to apply for a job at Basecamp, please fork this cover letter. I just can't guarantee that it will get you an interview, although I am hopeful that it will get me one.
 
 <a href="https://github.com/jesseorndorff/svn/blob/master/LICENSE.md">MIT License</a>
