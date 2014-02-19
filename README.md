@@ -28,7 +28,7 @@ I have a few side projects too. <a href="https://itunes.apple.com/hk/app/taste-p
 
 In addition to all that stuff, I love to learn. I love to discover more about the world around me. I am always interested in learning about new technologies, design trends, or how to hand roast a great batch of coffee.
 
-## In Closing
+### In Closing
 
 I still have a lot to learn and I feel like my best work is still ahead of me. I use Basecamp everyday, it's been the cornerstone of my freelance career for the last three years. I want to make a difference, I want to do work that matters. I think we would be a great fit.
 
